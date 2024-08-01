@@ -1,12 +1,12 @@
-# Terms of Service for DNU THUD Grading
+# Terms of Service for THUD Grading
 
 ## 1. Acceptance of Terms
 
-By installing or using DNU THUD Grading ("Add-on"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, please do not use the Add-on.
+By installing or using THUD Grading ("Add-on"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, please do not use the Add-on.
 
 ## 2. Description of Service
 
-[Tên Google Add-on] provides [mô tả ngắn gọn về chức năng của Add-on] as part of the Google Workspace. The Add-on is designed to [mô tả chi tiết hơn về chức năng và mục đích của Add-on].
+THUD Grading provides functions for students to self-check their assignments in basic Google Docs skills as part of the Google Workspace. The Add-on is designed to check if students understand and be able to format Google Docs documents as specified in the assignment.
 
 ## 3. User Responsibilities
 
@@ -19,11 +19,11 @@ By installing or using DNU THUD Grading ("Add-on"), you agree to be bound by the
 
 ## 4. Privacy Policy
 
-Your use of the Add-on is also governed by our Privacy Policy, which can be found [here](link_to_privacy_policy).
+Your use of the Add-on is also governed by our Privacy Policy, which can be found [here](privacy-policy.md).
 
 ## 5. Intellectual Property
 
-The Add-on and its original content, features, and functionality are and will remain the exclusive property of [Tên Công ty/Người phát triển] and its licensors. You may not use, copy, or distribute any part of the Add-on without our express permission.
+The Add-on and its original content, features, and functionality are and will remain the exclusive property of HocTiep/Hoang Truong and its licensors. You may not use, copy, or distribute any part of the Add-on without our express permission.
 
 ## 6. Termination
 
@@ -31,7 +31,7 @@ We may terminate or suspend your access to the Add-on at any time, without prior
 
 ## 7. Limitation of Liability
 
-In no event shall [Tên Công ty/Người phát triển], nor its directors, employees, partners, agents, suppliers, or affiliates, be liable for any indirect, incidental, special, consequential or punitive damages, including without limitation, loss of profits, data, use, goodwill, or other intangible losses, resulting from:
+In no event shall HocTiep/Hoang Truong, nor its directors, employees, partners, agents, suppliers, or affiliates, be liable for any indirect, incidental, special, consequential or punitive damages, including without limitation, loss of profits, data, use, goodwill, or other intangible losses, resulting from:
 - Your use of or inability to use the Add-on
 - Any unauthorized access to or use of our servers and/or any personal information stored therein
 - Any bugs, viruses, trojan horses, or the like that may be transmitted to or through the Add-on by any third party
@@ -42,8 +42,8 @@ We reserve the right, at our sole discretion, to modify or replace these Terms a
 
 ## 9. Governing Law
 
-These Terms shall be governed and construed in accordance with the laws of [Quốc gia/Bang], without regard to its conflict of law provisions.
+These Terms shall be governed and construed in accordance with the laws of Vietnam, without regard to its conflict of law provisions.
 
 ## 10. Contact Us
 
-If you have any questions about these Terms, please contact us at lienhe@hoctiep.com.
+If you have any questions about these Terms, please contact us at truonganhhoang@gmail.com.
