@@ -1,4 +1,4 @@
-# Privacy Policy for DNU THUD Grading
+# Privacy Policy for THUD Grading
 
 
 ## 1. Introduction
@@ -7,7 +7,7 @@ Welcome to DNU THUD Grading. We respect your privacy and are committed to protec
 
 ## 2. Information We Collect
 
-- **Personal Information**: When you use [Tên Google Add-on], we may collect certain personal information, such as your name, email address, and Google account information.
+- **Personal Information**: When you use THUD Grading, we may collect certain personal information, such as your name, email address, and Google account information.
 - **Usage Data**: We may collect information about how you use the Add-on, including the features you use and the actions you take within the Add-on.
 
 ## 3. How We Use Your Information
@@ -42,4 +42,4 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 
 ## 8. Contact Us
 
-If you have any questions or concerns about this Privacy Policy, please contact us at [Email liên hệ].
+If you have any questions or concerns about this Privacy Policy, please contact us at truonganhhoang@gmail.com.
