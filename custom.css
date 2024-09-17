@@ -1,0 +1,5 @@
+/* Đặt độ rộng tối đa của khóa học */
+.unit-container {
+    max-width: 1024px; /* Điều chỉnh theo ý muốn */
+    margin: 0 auto; /* Đảm bảo nội dung nằm ở giữa */
+}
